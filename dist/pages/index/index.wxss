@@ -1,0 +1,10 @@
+.fz-16 {
+  font-size: 16px;
+  color: #333;
+}
+.logo {
+  height: 128rpx;
+  width: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}

@@ -26,6 +26,7 @@ App({
     })
   },
   globalData: {
-    userInfo: null
+    userInfo: null,
+    urlPrefix: 'https://user.oneapm.com'
   }
 })
